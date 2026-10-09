@@ -11,7 +11,7 @@ int main ()
 	scanf("%c",&ch);
 	fflush(stdin);
 	gets(hoten);
-	printf("%d",\t%.1f,\t%c,\t%s"",a,c,ch,hoten);
+	printf("%d\t%1f\t%c\t%s",a,c,ch,hoten);
 	return 0;
 	
 	
